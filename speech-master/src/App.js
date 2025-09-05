@@ -25,8 +25,7 @@ const App = () => {
             <div className="container">
                 <h1>sample text</h1>
                 <h2>Speech to Text Converter</h2>
-                <h2>lorem ipsum.</h2>
-=======
+                <h2>lorem ipsummmmmm.</h2>
                 <h2>2nd try</h2>
                 <h2>Speech to Text Converter.Converts to text</h2>
                 <h2>...Sample Text...</h2>
