@@ -30,7 +30,7 @@ const App = () => {
                 <h2>2nd try</h2>
                 <h2>Speech to Text Converter.Converts to text</h2>
                 <h2>...Sample Text...</h2>
->>>>>>> 5ebf5c8e3615fe206c0ceefc39fbf05fe55271af
+
                 <br/>
                 <p>A React hook that converts speech from the microphone to text and makes it available to your React components.</p>
 
