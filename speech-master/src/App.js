@@ -23,7 +23,7 @@ const App = () => {
     return (
         <>
             <div className="container">
-                <h2>Try Speech Converter</h2>
+                <h2>2nd try</h2>
                 <h2>Speech to Text Converter.Converts to text</h2>
                 <h2>...Sample Text...</h2>
                 <br/>
