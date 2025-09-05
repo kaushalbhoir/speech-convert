@@ -23,17 +23,11 @@ const App = () => {
     return (
         <>
             <div className="container">
-<<<<<<< HEAD
+                <h1>sample text</h1>
                 <h2>Speech to Text Converter</h2>
-                <h2>lorem ipsum.</h2>
-=======
-                <h2>Try Speech Converter</h2>
-                <h2>Speech to Text Converter.Converts to text</h2>
-                <h2>...Sample Text...</h2>
->>>>>>> 5ebf5c8e3615fe206c0ceefc39fbf05fe55271af
+                <h2>buh</h2>
                 <br/>
-                <p>A React hook that converts speech from the microphone to text and makes it available to your React
-                    components.</p>
+                <p>A React hook that converts speech from the microphone to text and makes it available to your React components.</p>
 
                 <div className="main-content" onClick={() =>  setTextToCopy(transcript)}>
                     {transcript}
